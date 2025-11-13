@@ -16,6 +16,7 @@ The goal of this project was to:
 
 ## Architecture
 ![alt text](https://raw.githubusercontent.com/zaeemattique/InnovationLab-Task3/refs/heads/main/Task3%20Architecture.jpg)
+
 The architecture consists of:
 
 - **VPC:** `10.0.0.0/16`
